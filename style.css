@@ -9,42 +9,34 @@
     vertical-align: middle;
 }
 .pp{
-    width:20%;
-    height:500px;
+    width:30%;
+    height:900px;
     display:inline-block;
     border: solid;
     background-color: aqua;
     margin-left:1px;
-    flex:1;
 }
 .together{
     width: 15%;
     display: inline-block;
     margin-right: 50px;
-    flex:3;
 }
 .t3{
 display:inline-block;   
 margin-right: 90px;
 text-align: center;
 width:10%;
-flex:3;
 }
 .hello{
     border: solid;
     display: inline-block;
     width: 50%;
-    flex:3;
 }
-.d1{
+.bigcontainer{
  display:flex;
- flex:3;
 }
-.d2{
-    display:flex;
-    flex:1;
-}
-.d3{
+.image{
     display:flex;
 }
+
 
